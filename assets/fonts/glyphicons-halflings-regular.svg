@@ -159,7 +159,7 @@
             	<a class="logo" href="../../../../default.htm"/></a>
                 <ul id="nav">
                 	<li>
-                   		<span id="panel">
+                   		 <span id="panel">
 						<form method="get" name="searchform" id="searchform"  action="http://artdesigner.lv">
                         	<input type="text"  name="s"  class="input-text" value="I m looking for..." onfocus="if (this.value == 'I m looking for...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'I m looking for...';}"   value="" />
 							<input type="submit" name="submit" class="input-button" value=" " />
