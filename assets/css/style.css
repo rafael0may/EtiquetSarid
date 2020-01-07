@@ -25,6 +25,12 @@
 	padding: 10px 10px 10px 10px ;
 }
 
+#rs2{
+	
+	border-radius: 10px;
+	box-shadow: rgba(0, 0, 0, 0.05) 3px;
+	padding: 10px 10px 10px 10px ;
+}
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
